@@ -1,0 +1,42 @@
+body { 
+    font-family: Arial, sans-serif; 
+    font-size: 11px;
+    line-height: 1.5;
+    margin: 20px; 
+    padding: 20px;
+}
+.container { 
+    padding: 20px; max-width: 800px; 
+    margin: auto; 
+}
+table{
+    font-size: 11px;
+    
+    width: 550px;
+    border-collapse: collapse;
+}
+td{
+    border: 1px solid black;
+    padding: 5px;
+    line-height: 2;
+}
+
+.first-td{
+    border-right: none;
+}
+
+.secord-td{
+    border-left: none;
+}
+
+h2{
+    font-size: 11px;
+}
+
+.info{
+    text-align: center;
+}
+
+.footer{
+    text-align: center;
+}
